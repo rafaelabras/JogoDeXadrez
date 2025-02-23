@@ -1,0 +1,14 @@
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\JogoDeXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\JogoDeXadrez.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\JogoDeXadrez.AssemblyInfo.cs
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\JogoDeXadrez.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\net8.0\JogoDeXadrez.deps.json
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\net8.0\JogoDeXadrez.dll
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\net8.0\JogoDeXadrez.pdb
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\JogoDeXadrez.dll
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\refint\JogoDeXadrez.dll
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\JogoDeXadrez.pdb
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\ref\JogoDeXadrez.dll
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\net8.0\JogoDeXadrez.exe
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\net8.0\JogoDeXadrez.runtimeconfig.json
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\JogoDeXadrez.genruntimeconfig.cache
