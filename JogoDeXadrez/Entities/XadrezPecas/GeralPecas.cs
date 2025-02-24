@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JogoDeXadrez.Services
+namespace JogoDeXadrez.Entities.XadrezPecas
 {
-    internal class LogicaPecas
+    internal class GeralPecas
     {
+        public int[,] Movimentar { get; set; }
     }
 }

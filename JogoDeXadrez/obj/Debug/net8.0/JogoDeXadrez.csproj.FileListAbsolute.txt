@@ -12,3 +12,4 @@ C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez
 C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\net8.0\JogoDeXadrez.exe
 C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\net8.0\JogoDeXadrez.runtimeconfig.json
 C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\JogoDeXadrez.genruntimeconfig.cache
+C:\Users\rafae\Documents\projetos programação\projetos c# c sharp\JogoDeXadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\net8.0\JogoDeXadrez.sourcelink.json

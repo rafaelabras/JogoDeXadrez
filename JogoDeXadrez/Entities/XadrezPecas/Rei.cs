@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JogoDeXadrez.Entities.XadrezPecas
 {
-    internal class Rei
+    internal class Rei : GeralPecas
     {
     }
 }

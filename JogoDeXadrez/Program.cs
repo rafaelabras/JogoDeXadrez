@@ -9,8 +9,7 @@ namespace MyApp
         {
 
             TabuleiroXadrez tabuleiro = new TabuleiroXadrez();
-            tabuleiro.PrimeiroJogo();
-
+            
             Console.ReadLine();
 
 

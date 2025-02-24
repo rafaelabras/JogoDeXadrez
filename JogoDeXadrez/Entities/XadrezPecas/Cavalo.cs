@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JogoDeXadrez.Entities.XadrezPecas
 {
-    internal class Cavalo
+    internal class Cavalo : GeralPecas
     {
     }
 }

@@ -8,5 +8,6 @@ namespace JogoDeXadrez.Entities.XadrezPecas
 {
     internal class Peao
     {
+       
     }
 }
