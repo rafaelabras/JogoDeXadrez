@@ -8,6 +8,6 @@ namespace JogoDeXadrez.Entities.XadrezPecas
 {
     internal class GeralPecas
     {
-        public int[,] Movimentar { get; set; }
+        public Char Nome { get; set; }
     }
 }

@@ -8,5 +8,9 @@ namespace JogoDeXadrez.Entities.XadrezPecas
 {
     internal class Rei : GeralPecas
     {
+        public Rei(char nome)
+        {
+            this.Nome = nome;
+        }
     }
 }

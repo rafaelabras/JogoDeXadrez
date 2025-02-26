@@ -14,11 +14,11 @@ namespace JogoDeXadrez.Entities.TabuleiroXadrez
         internal int[] LinhaLateral { get; set; }
         internal char[] LinhaBaixo { get; set; }
         internal Posicao posicao { get; set; } = new Posicao();
-        internal LogicaPecas logicaPecas { get; set; } = new LogicaPecas();
+        /* internal LogicaPecas logicaPecas { get; set; } = new LogicaPecas(); */
         
         public TabuleiroXadrez() {
          /*----------------------------------------   Inicio da representacao grafica do tabuleiro    ----------------------------------------*/
-            Tabuleiro = new int[8, 8];
+        Tabuleiro = new int[8, 8];
             for (int j = 0; j < 8; j++)
             {
 
@@ -76,6 +76,7 @@ namespace JogoDeXadrez.Entities.TabuleiroXadrez
         public void MoverPeca((int numero, int letra) PecaEscolhida)
         {
             Console.Write("Qual o destino de sua peca? (ex : a7): ");
+            posicao.Input = Console.ReadLine();
             int numero;
             int letra;
             char[] escolhas = posicao.Input.ToCharArray();

@@ -8,5 +8,9 @@ namespace JogoDeXadrez.Entities.XadrezPecas
 {
     internal class Torre : GeralPecas
     {
+        public Torre(char nome)
+        {
+            this.Nome = nome;
+        }
     }
 }

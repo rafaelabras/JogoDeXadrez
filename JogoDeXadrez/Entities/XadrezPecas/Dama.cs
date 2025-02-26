@@ -8,5 +8,9 @@ namespace JogoDeXadrez.Entities.XadrezPecas
 {
     internal class Dama : GeralPecas
     {
+        public Dama(char nome)
+        {
+            this.Nome = nome;
+        }
     }
 }

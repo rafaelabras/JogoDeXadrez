@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace JogoDeXadrez.Entities.XadrezPecas
 {
-    internal class Peao
+    internal class Peao : GeralPecas
     {
-       
+       public Peao(char nome) { 
+        this.Nome = nome;
+        }
     }
 }
