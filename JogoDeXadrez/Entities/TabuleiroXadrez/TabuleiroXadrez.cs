@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JogoDeXadrez.Entities.XadrezPecas;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics.CodeAnalysis;
@@ -10,22 +11,31 @@ namespace JogoDeXadrez.Entities.TabuleiroXadrez
 {
     internal class TabuleiroXadrez
     {
-        internal int[,] Tabuleiro { get; set; }
+        internal char[,] Tabuleiro { get; set; } = new char[8, 8];
         internal int[] LinhaLateral { get; set; }
         internal char[] LinhaBaixo { get; set; }
         internal Posicao posicao { get; set; } = new Posicao();
-        /* internal LogicaPecas logicaPecas { get; set; } = new LogicaPecas(); */
+        internal LogicaPecas logicaPecas { get; set; }
         
         public TabuleiroXadrez() {
-         /*----------------------------------------   Inicio da representacao grafica do tabuleiro    ----------------------------------------*/
-        Tabuleiro = new int[8, 8];
+            /*----------------------------------------   Inicio da representacao grafica do tabuleiro    ----------------------------------------*/
+
+            logicaPecas = new LogicaPecas(Tabuleiro);
+
             for (int j = 0; j < 8; j++)
             {
 
                 for (int i = 0; i < 8; i++)
                 {
+                 
+                    if (Tabuleiro[i, j] == '\0') /* O que e '\0' e por que ele esta nesse if? esse if foi criado como uma programacao defensiva pois o "logicaPecas = new LogicaPecas(Tabuleiro);" 
+                                                  atribuiu valores ao tabuleiro, para nao substituir todos os valores com '_' vamos substituir todas casas vazias do vetores por '_', o valor PADRAO ao
+                                                       inicializar um tipo primitivo char e '\0' e NAO "NULL". */
+                    {
                     Tabuleiro[i, j] = (char)'_';
                 }
+
+            }
             }
 
             LinhaLateral = new int[8];
@@ -50,8 +60,12 @@ namespace JogoDeXadrez.Entities.TabuleiroXadrez
 
                 Console.Write(LinhaBaixo[i] + " ");
             }
-            
+
             /*---------------------------------------- Fim da representacao grafica do tabuleiro  ----------------------------------------*/
+
+
+
+
 
         }
 
