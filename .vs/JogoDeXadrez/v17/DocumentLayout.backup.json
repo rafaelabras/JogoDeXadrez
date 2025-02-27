@@ -70,8 +70,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\XadrezPecas\\Peao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:48:57.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:48:57.653Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\Peca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:44:48.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:44:48.874Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\XadrezPecas\\Rei.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:25:02.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T18:25:02.054Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\XadrezPecas\\Dama.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:24:56.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T18:24:56.672Z"
             },
             {
               "$type": "Document",
@@ -122,8 +118,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\XadrezPecas\\Bispo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:37:04.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T17:37:04.113Z"
             },
             {
               "$type": "Document",
@@ -135,8 +130,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\XadrezPecas\\GeralPecas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:24:39.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T18:24:39.807Z"
             },
             {
               "$type": "Document",
@@ -146,7 +140,7 @@
               "RelativeDocumentMoniker": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\LogicaPecas.cs",
               "ToolTip": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\LogicaPecas.cs",
               "RelativeToolTip": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\LogicaPecas.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T18:34:26.967Z",
               "EditorCaption": ""
@@ -161,8 +155,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\XadrezPecas\\Cavalo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:24:53.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T18:24:53.851Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\TabuleiroXadrez.cs",
               "ViewState": "AgIAABAAAAAAAAAAAADwvyUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T20:45:58.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T20:45:58.815Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\XadrezPecas\\Torre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:25:04.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T18:25:04.412Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\Posicao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T20:43:35.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T20:43:35.316Z"
             },
             {
               "$type": "Document",
@@ -213,8 +203,7 @@
               "RelativeToolTip": "JogoDeXadrez\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T20:42:53.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T20:42:53.816Z"
             }
           ]
         }

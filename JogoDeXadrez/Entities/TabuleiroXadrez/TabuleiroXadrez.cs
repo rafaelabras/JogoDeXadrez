@@ -69,7 +69,7 @@ namespace JogoDeXadrez.Entities.TabuleiroXadrez
 
         }
 
-        public (int numero, int letra) EscolherPeca() /* Tupla (Permite o retorno de dois valores em um metodo porem e diferente de um array.)*/
+        public (int numero, int letra) EscolhaPeca() /* Tupla (Permite o retorno de dois valores em um metodo porem e diferente de um array.)*/
         {
             /*---------------------------------------- Inicio da logica de escolher uma peca  ----------------------------------------*/
             Console.Write("Qual peca em qual posicao voce deseja mover? (ex : a5): ");
@@ -81,9 +81,12 @@ namespace JogoDeXadrez.Entities.TabuleiroXadrez
 
             numero = ((int)char.GetNumericValue(escolhas[1]) - 1); /* Verifica se o primeiro valor inserido e um numero   / OBS: E necessario reduzir 1,
                                                                * pois se o usuario escolher 1 (ou outro numero) ira se refererir a posicao 0 no vetor pois em C# arrays comecam na posicao 0. */
-
+            if (Tabuleiro[letra, numero] != '-')
+            {
             int[,] PecaEscolhida = new int [numero, letra];
             return (numero, letra);
+            }
+            else { throw new ArgumentException("Insira uma posicao que contenha uma peca."); }
             /*---------------------------------------- Fim da logica de escolher uma peca  ----------------------------------------*/
         }
 
@@ -97,7 +100,14 @@ namespace JogoDeXadrez.Entities.TabuleiroXadrez
             letra = (char.ToUpper(escolhas[0]) - 'A');
             numero = ((int)char.GetNumericValue(escolhas[1]) - 1);
 
- 
+            if (Tabuleiro[letra, numero] != '-')
+            {
+                
+            }
+            else { throw new ArgumentException("Insira uma posicao que contenha uma peca."); }
+
+
+
 
         }
 
