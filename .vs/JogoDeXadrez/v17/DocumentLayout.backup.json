@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\tabuleiroxadrez\\movimentacaopeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\tabuleiroxadrez\\movimentacaopeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\tabuleiroxadrez\\logicapecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\tabuleiroxadrez\\logicapecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\tabuleiroxadrez\\tabuleiroxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\tabuleiroxadrez\\tabuleiroxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\tabuleiroxadrez\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\tabuleiroxadrez\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\tabuleiroxadrez\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\tabuleiroxadrez\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\xadrezpecas\\geralpecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\xadrezpecas\\geralpecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\xadrezpecas\\bispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\xadrezpecas\\bispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\xadrezpecas\\geralpecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\xadrezpecas\\geralpecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\tabuleiroxadrez\\tabuleiroxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\tabuleiroxadrez\\tabuleiroxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\tabuleiroxadrez\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|solutionrelative:jogodexadrez\\entities\\tabuleiroxadrez\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93CE2849-F3D1-4055-AB22-F3E7A297918F}|JogoDeXadrez\\JogoDeXadrez.csproj|c:\\users\\rafae\\documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\jogodexadrez\\jogodexadrez\\jogodexadrez\\entities\\xadrezpecas\\cavalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -74,15 +74,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Peca.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\Peca.cs",
-              "RelativeDocumentMoniker": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\Peca.cs",
-              "ToolTip": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\Peca.cs",
-              "RelativeToolTip": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\Peca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MovimentacaoPeca.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\MovimentacaoPeca.cs",
+              "RelativeDocumentMoniker": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\MovimentacaoPeca.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\MovimentacaoPeca.cs",
+              "RelativeToolTip": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\MovimentacaoPeca.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv0UAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:44:48.874Z"
+              "WhenOpened": "2025-02-25T19:44:48.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -110,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Bispo.cs",
               "DocumentMoniker": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\XadrezPecas\\Bispo.cs",
               "RelativeDocumentMoniker": "JogoDeXadrez\\Entities\\XadrezPecas\\Bispo.cs",
@@ -122,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GeralPecas.cs",
               "DocumentMoniker": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\XadrezPecas\\GeralPecas.cs",
               "RelativeDocumentMoniker": "JogoDeXadrez\\Entities\\XadrezPecas\\GeralPecas.cs",
@@ -134,16 +135,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LogicaPecas.cs",
               "DocumentMoniker": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\LogicaPecas.cs",
               "RelativeDocumentMoniker": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\LogicaPecas.cs",
               "ToolTip": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\LogicaPecas.cs",
               "RelativeToolTip": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\LogicaPecas.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAqwCEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:34:26.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T18:34:26.967Z"
             },
             {
               "$type": "Document",
@@ -159,13 +159,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TabuleiroXadrez.cs",
               "DocumentMoniker": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\TabuleiroXadrez.cs",
               "RelativeDocumentMoniker": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\TabuleiroXadrez.cs",
               "ToolTip": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\TabuleiroXadrez.cs",
               "RelativeToolTip": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\TabuleiroXadrez.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvyUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwGgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T20:45:58.815Z"
             },
@@ -183,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Posicao.cs",
               "DocumentMoniker": "C:\\Users\\rafae\\Documents\\projetos programa\u00E7\u00E3o\\projetos c# c sharp\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez\\Entities\\TabuleiroXadrez\\Posicao.cs",
               "RelativeDocumentMoniker": "JogoDeXadrez\\Entities\\TabuleiroXadrez\\Posicao.cs",

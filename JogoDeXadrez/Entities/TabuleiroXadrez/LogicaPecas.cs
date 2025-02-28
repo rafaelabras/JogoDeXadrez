@@ -16,6 +16,7 @@ namespace JogoDeXadrez.Entities.TabuleiroXadrez
         internal GeralPecas[] Dama { get; set; } = new Dama[2];
         internal GeralPecas[] Rei { get; set; } = new Rei[2];
 
+        public LogicaPecas() { }
         public LogicaPecas(char[,] matriz)
         {
 
