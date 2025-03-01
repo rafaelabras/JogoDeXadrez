@@ -67,18 +67,18 @@ namespace JogoDeXadrez.Entities.TabuleiroXadrez
 
             matriz[7, 2] = Bispo[0].Nome;
             matriz[7, 5] = Bispo[1].Nome;
-            matriz[0, 2] = Bispo[0].Nome;
-            matriz[0, 5] = Bispo[1].Nome;
+            matriz[0, 2] = Bispo[2].Nome;
+            matriz[0, 5] = Bispo[3].Nome;
 
             /* Posicionando a DAMA no tabuleiro */
 
             matriz[7, 3] = Dama[0].Nome;
-            matriz[0, 3] = Dama[0].Nome;
+            matriz[0, 3] = Dama[1].Nome;
 
             /* Posicionando o REI no tabuleiro */
 
             matriz[7, 4] = Rei[0].Nome;
-            matriz[0, 4] = Rei[0].Nome;
+            matriz[0, 4] = Rei[1].Nome;
 
         }
 

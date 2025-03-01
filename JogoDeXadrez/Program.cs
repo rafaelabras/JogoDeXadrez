@@ -9,6 +9,7 @@ namespace MyApp
         {
 
             TabuleiroXadrez tabuleiro = new TabuleiroXadrez();
+            tabuleiro.MoverPeca(tabuleiro.EscolhaPeca());
             
             Console.ReadLine();
 
